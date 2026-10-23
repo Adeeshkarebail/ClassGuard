@@ -1,0 +1,11 @@
+{
+  "name": "ClassGuard AI",
+  "description": "Smart Classroom Safety & Attention Monitoring System with on-device MediaPipe computer vision, role-based portals, privacy-first telemetry, and teacher verification auditing.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
